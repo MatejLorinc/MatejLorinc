@@ -16,16 +16,20 @@ I'm a self-taught Java & React.js developer
 
 ---
 
-<div align="center">
-  <a href="https://wakatime.com/@Math3w">
-    <img alt="Weekly WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Math3w&langs_count=4&custom_title=Weekly%20WakaTime%20Stats&layout=compact&theme=react&border_color=20232a" />
-  </a>
-  <a href="[https://github.com/anuraghazra/convoychat](https://github.com/1Math3w)">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Math3w&langs_count=4&layout=compact&theme=react&border_color=20232a" />
-  </a>
-</div>
-  
-<br />
+<table align="center">
+  <tr>
+    <th>
+      <a href="https://wakatime.com/@Math3w">
+        <img alt="Weekly WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Math3w&langs_count=4&custom_title=Weekly%20WakaTime%20Stats&layout=compact&theme=react&border_color=20232a" />
+      </a>
+    </th>
+    <th>
+      <a href="[https://github.com/anuraghazra/convoychat](https://github.com/1Math3w)">
+        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Math3w&langs_count=4&layout=compact&theme=react&border_color=20232a" />
+      </a>
+    </th>
+  </tr>
+</table>
 
 <div align="center">
   <p>Time coded since Aug 3 2022</p>
