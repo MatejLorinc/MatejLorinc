@@ -24,7 +24,7 @@ I'm a self-taught Java & React.js developer
       </a>
     </th>
     <th>
-      <a href="[https://github.com/anuraghazra/convoychat](https://github.com/1Math3w)">
+      <a href="https://github.com/1Math3w">
         <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Math3w&langs_count=4&layout=compact&theme=react&border_color=20232a" />
       </a>
     </th>
@@ -33,7 +33,7 @@ I'm a self-taught Java & React.js developer
 
 <div align="center">
   <p>Time coded since Aug 3 2022</p>
-  <a href="https://wakatime.com/@Math3w)">
+  <a href="https://wakatime.com/@Math3w">
     <img alt="Time coded since Aug 3 2022" src="https://wakatime.com/badge/user/63d73563-494e-42f6-af77-15ce105631ff.svg?style=for-the-badge" />
   </a>
 </div>
