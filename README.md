@@ -1,5 +1,13 @@
-<p align="center"><img alt="Math3w" width="400" src="./header.png"></p>
-<p align="center"><img alt="Discord: Math3w#9695" src="https://img.shields.io/badge/Math3w%239695-blue?style=for-the-badge&logo=discord&logoColor=white"></p>
+<p align="center">
+ <a href="https://discordapp.com/users/482816752238067712/">
+  <img alt="Math3w" width="400" src="./header.png">
+ </a>
+</p>
+<p align="center">
+ <a href="https://discordapp.com/users/482816752238067712/">
+  <img alt="Discord: Math3w#9695" src="https://img.shields.io/badge/Math3w%239695-blue?style=for-the-badge&logo=discord&logoColor=white">
+ </a>
+</p>
 
 ### About me
 
