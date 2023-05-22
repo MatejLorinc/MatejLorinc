@@ -28,7 +28,7 @@ I'm a self-taught Java & React.js developer
   <tr>
     <th>
       <a href="https://wakatime.com/@Math3w">
-        <img alt="Weekly WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Math3w&langs_count=4&custom_title=Weekly%20WakaTime%20Stats&layout=compact&theme=react&border_color=20232a" />
+        <img alt="Time coded since Aug 3 2022" src="https://github-readme-stats.vercel.app/api/wakatime?username=Math3w&langs_count=4&custom_title=Time%20coded%20since%20Aug%203%202022&layout=compact&theme=react&border_color=20232a" />
       </a>
     </th>
     <th>
@@ -38,10 +38,3 @@ I'm a self-taught Java & React.js developer
     </th>
   </tr>
 </table>
-
-<div align="center">
-  <p>Time coded since Aug 3 2022</p>
-  <a href="https://wakatime.com/@Math3w">
-    <img alt="Time coded since Aug 3 2022" src="https://wakatime.com/badge/user/63d73563-494e-42f6-af77-15ce105631ff.svg?style=for-the-badge" />
-  </a>
-</div>
