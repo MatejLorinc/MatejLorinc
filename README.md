@@ -11,13 +11,11 @@
 
 ### About me
 
-I'm a self-taught Java & React.js developer
+I'm a self-taught Java Developer
 
  - Developer at QPlay.cz
 
- - Freelancer at Orbital Studios
-
- - Learning TypeScript and React.js
+ - Freelancer at Orbital Studios, Arcane Studios & Candor Services
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,java,mysql,mongodb,redis,gradle,maven,js,ts,react,html,css,materialui,vite,astro)](https://github.com/1Math3w)
