@@ -15,7 +15,7 @@ I'm a self-taught Java Developer
 
  - Developer at QPlay.cz
 
- - Freelancer at Orbital Studios, Arcane Studios & Candor Services
+ - Freelancer at DevRoom, Orbital Studios, Arcane Studios & Candor Services
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,java,mysql,mongodb,redis,gradle,maven,js,ts,react,html,css,materialui,vite,astro)](https://github.com/1Math3w)
