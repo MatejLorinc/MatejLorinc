@@ -7,6 +7,9 @@
  <a href="https://math3w.dev/">
   <img alt="math3w.dev" src="https://img.shields.io/badge/math3w.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
  </a>
+ <a href="https://www.linkedin.com/in/matej-l%C3%B6rinc">
+  <img alt="math3w.dev" src="https://img.shields.io/badge/Matej%20Lörinc-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
  <a href="https://discordapp.com/users/482816752238067712/">
   <img alt="Discord: Math3w" src="https://img.shields.io/badge/Math3w-blue?style=for-the-badge&logo=discord&logoColor=white">
  </a>
@@ -16,12 +19,13 @@
 
 I'm a self-taught Java Developer
 
- - Lead Developer at [QPlay.cz](https://www.qplay.cz/)
+- Former Lead Developer at [QPlay.cz](https://www.qplay.cz/)
 
- - Freelancer at DevRoom, Arcane Studios & Candor Services
+- Freelancer at DevRoom, Arcane Studios & Candor Services
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,java,mysql,mongodb,redis,gradle,maven,js,ts,react,html,css,materialui,vite,astro)](https://github.com/1Math3w)
+
+[![My Skills](https://skillicons.dev/icons?i=git,java,spring,mysql,mongodb,redis,gradle,maven,js,ts,react,nextjs,html,css,tailwind)](https://github.com/1Math3w)
 
 ---
 
