@@ -25,7 +25,7 @@ I'm a self-taught Java Developer
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,java,spring,mysql,mongodb,redis,gradle,maven,js,ts,react,nextjs,html,css,tailwind)](https://github.com/1Math3w)
+[![My Skills](https://skillicons.dev/icons?i=git,java,spring,mysql,mongodb,redis,gradle,maven,js,ts,react,nextjs,html,css,tailwind)](https://math3w.dev/)
 
 ---
 
@@ -37,8 +37,8 @@ I'm a self-taught Java Developer
       </a>
     </th>
     <th>
-      <a href="https://github.com/1Math3w">
-        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Math3w&langs_count=4&layout=compact&theme=react&border_color=20232a" />
+      <a href="https://github.com/MatejLorinc">
+        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejLorinc&langs_count=4&layout=compact&theme=react&border_color=20232a" />
       </a>
     </th>
   </tr>
