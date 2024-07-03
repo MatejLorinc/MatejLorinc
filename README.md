@@ -17,15 +17,15 @@
 
 ### About me
 
-I'm a self-taught Java Developer
+- Developer at [Dodo Studios](https://www.dodostudios.nl/)
 
 - Former Lead Developer at [QPlay.cz](https://www.qplay.cz/)
 
-- Freelancer at DevRoom, Arcane Studios & Candor Services
+- Former Freelancer at DevRoom, Arcane Studios & Candor Services
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,java,spring,mysql,mongodb,redis,gradle,maven,js,ts,react,nextjs,html,css,tailwind)](https://math3w.dev/)
+[![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,spring,mysql,mongodb,redis,gradle,maven,js,ts,react,nextjs,html,css,tailwind&perline=8)](https://math3w.dev/)
 
 ---
 
