@@ -4,11 +4,11 @@
  </a>
 </p>
 <p align="center">
- <a href="https://math3w.dev/">
-  <img alt="math3w.dev" src="https://img.shields.io/badge/math3w.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
+ <a href="https://www.linkedin.com/in/matej-lorinc">
+  <img alt="matejlorinc.com" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a href="https://www.linkedin.com/in/matej-l%C3%B6rinc">
-  <img alt="math3w.dev" src="https://img.shields.io/badge/Matej%20Lörinc-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://matejlorinc.com/">
+  <img alt="matejlorinc.com" src="https://img.shields.io/badge/matejlorinc.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
  </a>
  <a href="https://discordapp.com/users/482816752238067712/">
   <img alt="Discord: Math3w" src="https://img.shields.io/badge/Math3w-blue?style=for-the-badge&logo=discord&logoColor=white">
