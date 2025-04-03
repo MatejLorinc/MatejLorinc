@@ -17,9 +17,9 @@
 
 ### About me
 
-- Developer at [Dodo Studios](https://www.dodostudios.nl/)
+- Developer at [Enchanted](https://www.enchanted.gg/)
 
-- Former Lead Developer at [QPlay.cz](https://www.qplay.cz/)
+- Former Developer at [Dodo Studios](https://www.dodostudios.nl/) & Lead Developer at [QPlay.cz](https://www.qplay.cz/)
 
 - Former Freelancer at DevRoom, Arcane Studios & Candor Services
 
